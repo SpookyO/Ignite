@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Ignite | Educational Institution",
-  description: "Join with us right now!!",
+  title: "Vampirina Specifically",
+  description: "Subdomains are awesome!!",
 };
 
 export default function RootLayout({
