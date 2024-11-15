@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Vampirina Specifically",
-  description: "Subdomains are awesome!!",
+  title: "Hamid vai Specifically",
+  description: "hamid vai er portfolio?",
 };
 
 export default function RootLayout({
