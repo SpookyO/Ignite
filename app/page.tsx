@@ -3,6 +3,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>Tamim, tumi ekta madarchod</div>
+    <div>Hamid vai rocks!!</div>
   );
 }
